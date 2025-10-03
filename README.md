@@ -41,7 +41,7 @@ I aim to bridge cybersecurity, modular programming, and human-centered design to
 - Programming: C++, Python, HTML, CSS, JavaScript  
 - Cybersecurity: Ethical Hacking (Beginner), Cryptography (RSA, AES, DES)  
 - AI: Prompt Engineering, AI Workflow Design, Data Visualization  
-- Platforms: GitHub, Scratch, Linux (basic)
+- Platforms: GitHub, Scratch, Linux
 
 ---
 
