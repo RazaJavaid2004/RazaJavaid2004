@@ -19,6 +19,30 @@ I'm a Computer Science undergraduate at NED University, deeply passionate about 
 To architect secure, scalable systems that empower individuals and organizations through ethical technology.  
 I aim to bridge cybersecurity, modular programming, and human-centered design to build tools that are technically robust and socially impactful.
 
+---
+
+## 🛡️ CodeAlpha Cybersecurity Internship
+
+🎓 **Role**: Cybersecurity Intern  
+🏢 **Organization**: CodeAlpha  
+📅 **Duration**: October 5, 2025 – January 5, 2026  
+🌐 **Location**: Remote  
+🔍 **Focus Areas**: Ethical Hacking, Secure Protocols, Python, C++, GitHub Documentation
+
+📂 **Tasks & Repositories**:  
+- [Task 1 – Port Scanner](#) *(coming soon)*  
+- [Task 2 – Encryption Demo](#)  
+- [Task 3 – Vulnerability Analysis](#)
+
+📌 **LinkedIn Announcement**: [View Post](#) *(add link once published)*  
+🎖️ **Certificate**: Will be added upon completion
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Internship-CodeAlphaCybersecurity-blue?style=for-the-badge&logo=github" alt="CodeAlpha Badge"/>
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 ![Raza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazaJavaid2004&show_icons=true&theme=radical)
