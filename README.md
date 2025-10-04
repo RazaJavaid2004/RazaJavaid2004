@@ -29,8 +29,7 @@ I aim to bridge cybersecurity, modular programming, and human-centered design to
 🌐 **Location**: Remote  
 🔍 **Focus Areas**: Ethical Hacking, Secure Protocols, Python, C++, GitHub Documentation
 
-📂 **Tasks & Repositories**:  
-Coming Soon
+📂 **Tasks & Repositories**:  Coming Soon
 
 🎖️ **Certificate**: Will be added upon completion
 
