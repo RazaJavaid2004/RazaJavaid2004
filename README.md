@@ -30,11 +30,8 @@ I aim to bridge cybersecurity, modular programming, and human-centered design to
 🔍 **Focus Areas**: Ethical Hacking, Secure Protocols, Python, C++, GitHub Documentation
 
 📂 **Tasks & Repositories**:  
-- [Task 1 – Port Scanner](#) *(coming soon)*  
-- [Task 2 – Encryption Demo](#)  
-- [Task 3 – Vulnerability Analysis](#)
+Coming Soon
 
-📌 **LinkedIn Announcement**: [View Post](#) *(add link once published)*  
 🎖️ **Certificate**: Will be added upon completion
 
 <p align="center">
