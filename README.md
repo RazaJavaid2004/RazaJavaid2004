@@ -39,23 +39,6 @@ I aim to bridge cybersecurity, modular programming, and human-centered design to
 
 ---
 
-## 🌐 Hacktoberfest 2025
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=github" alt="Hacktoberfest Badge"/>
-</p>
-
-✅ First PR merged: [Add Muhammad Raza to Contributors list](https://github.com/firstcontributions/first-contributions/pull/104859)  
-🎯 Repository: `firstcontributions/first-contributions`  
-🛠️ Contribution: Added my name to `Contributors.md` as part of the First Contributions tutorial  
-📅 Date: October 5, 2025  
-🧠 Focus: Open-source onboarding, documentation-first contribution  
-🏁 Progress: 1 / 6 PRs submitted  
-
-More contributions coming soon — stay tuned!
-
----
-
 ## 📊 GitHub Statistics
 
 ![Raza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazaJavaid2004&show_icons=true&theme=radical)
