@@ -3,7 +3,7 @@
 ![Banner](assets/banner.png)
 
 # Muhammad Raza  
-**Cybersecurity & Cloud Security Enthusiast | SOC Analyst Internships | GitHub: RazaJavaid2004 | LinkedIn: Muhammad Raza**
+**Cybersecurity & Cloud Security Professional | SOC Analyst Experience | GitHub: RazaJavaid2004 | LinkedIn: Muhammad Raza**
 
 ## 🧠 About Me  
 
@@ -26,6 +26,20 @@ I design and document **modular security toolkits**, build cryptographic suites,
 
 ---
 
+## 🛡️ Cyber Academy SOC Analyst Internship
+
+🎓 **Role**: SOC Analyst Intern (Level 1)  
+🏢 **Organization**: Cyber Academy  
+📅 **Duration**: June 2025 – September 2025  
+🌐 **Location**: Remote  
+🔍 **Focus Areas**: SIEM tools (IBM QRadar, Wazuh), log analysis, alert triage, incident response workflows, playbook documentation   
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Internship-Cyber%20Academy%20SOC%20Analyst-green?style=for-the-badge&logo=security" alt="Cyber Academy Badge"/>
+</p>
+
+---
+
 ## 🛡️ CodeAlpha Cybersecurity Internship
 
 🎓 **Role**: Cybersecurity Intern  
@@ -33,9 +47,6 @@ I design and document **modular security toolkits**, build cryptographic suites,
 📅 **Duration**: Oct 2025 – Jan 2026  
 🌐 **Location**: Remote  
 🔍 **Focus Areas**: Ethical Hacking, Secure Protocols, Python, C++, GitHub Documentation  
-
-📂 **Tasks & Repositories**: Coming Soon  
-🎖️ **Certificate**: Pending  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-CodeAlphaCybersecurity-blue?style=for-the-badge&logo=github" alt="CodeAlpha Badge"/>
