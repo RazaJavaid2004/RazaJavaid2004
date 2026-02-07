@@ -178,6 +178,19 @@ Automation tool that compiles lab programs, executes them, and generates formatt
 
 ---
 
+## 🎖️ Credly Badges
+
+<p align="center">
+  <img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="120" alt="Badge 1" />
+  <img src="https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="120" alt="Badge 2" />
+  <img src="https://images.credly.com/images/4ccd9157-c68a-4797-b23c-506601198991/blob" width="120" alt="Badge 3" />
+  <img src="https://images.credly.com/size/200x200/images/f821064c-8e80-4900-bec2-a799a62157e5/Coursera_20Operating_20Systems_20Overview_20Administration_20and_20Security.png" width="120" alt="Operating Systems Security" />
+  <img src="https://images.credly.com/images/ac3c7b20-510a-479f-b51f-b9e3972d25db/blob" width="120" alt="Badge 5" />
+  <img src="https://images.credly.com/size/200x200/images/ef9d282a-8f31-4b0f-9bbb-640a68ea4b7f/Coursera_20Database_20Essentials_20and_20Vulnerabilities.png" width="120" alt="Database Essentials" />
+</p>
+
+---
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Raza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadraza2006/)  
 [![Email](https://img.shields.io/badge/Gmail-muhammadrazadev2006@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazadev2006@gmail.com)
