@@ -3,21 +3,26 @@
 ![Banner](assets/banner.png)
 
 # Muhammad Raza  
-**Cybersecurity & AI Enthusiast | GitHub: RazaJavaid2004 | LinkedIn: Muhammad Raza**
+**Cybersecurity & Cloud Security Enthusiast | SOC Analyst Internships | GitHub: RazaJavaid2004 | LinkedIn: Muhammad Raza**
 
 ## 🧠 About Me  
-👋 Hi, I'm Muhammad Raza  
-I'm a Computer Science undergraduate at NED University, deeply passionate about cybersecurity and ethical hacking. I specialize in system-level programming, prompt engineering, and modular development using C++. My journey is rooted in securing digital systems, understanding cryptographic protocols, and building tools that reinforce privacy and resilience.
 
-## 🌱 Currently Exploring  
-- Cybersecurity & Ethical Hacking  
-- Networking & Cloud Security  
-- Cryptography & Secure Protocols  
-- Prompt Engineering for Security Workflows
+👋 Hi, I'm **Muhammad Raza** 
 
-## 🎯 My goal:  
-To architect secure, scalable systems that empower individuals and organizations through ethical technology.  
-I aim to bridge cybersecurity, modular programming, and human-centered design to build tools that are technically robust and socially impactful.
+I'm a Computer Science undergraduate at NED University, driven by a mission to secure digital systems and strengthen organizational resilience. My focus lies in **cybersecurity, ethical hacking, cloud security, and compliance frameworks**.  
+
+I design and document **modular security toolkits**, build cryptographic suites, and explore **DevSecOps pipelines** that integrate security into every stage of development. With hands‑on SOC Analyst internships and certifications in cybersecurity, I bring both technical depth and regulatory awareness to my work.  
+
+- 🎓 CS Student @ NEDUET  
+- 🔐 SOC Analyst & Cybersecurity Internships  
+- 🌐 Exploring Cloud Security, Infrastructure as Code, and Policy as Code  
+- 📜 Skilled in compliance frameworks: NIST, PCI DSS, SOC 2, HIPAA, FedRAMP  
+ 
+- 🌱 Currently learning:
+
+  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![DevSecOps](https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -25,13 +30,12 @@ I aim to bridge cybersecurity, modular programming, and human-centered design to
 
 🎓 **Role**: Cybersecurity Intern  
 🏢 **Organization**: CodeAlpha  
-📅 **Duration**: October 5, 2025 – January 5, 2026  
+📅 **Duration**: Oct 2025 – Jan 2026  
 🌐 **Location**: Remote  
-🔍 **Focus Areas**: Ethical Hacking, Secure Protocols, Python, C++, GitHub Documentation
+🔍 **Focus Areas**: Ethical Hacking, Secure Protocols, Python, C++, GitHub Documentation  
 
-📂 **Tasks & Repositories**:  Coming Soon
-
-🎖️ **Certificate**: Will be added upon completion
+📂 **Tasks & Repositories**: Coming Soon  
+🎖️ **Certificate**: Pending  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-CodeAlphaCybersecurity-blue?style=for-the-badge&logo=github" alt="CodeAlpha Badge"/>
@@ -41,92 +45,120 @@ I aim to bridge cybersecurity, modular programming, and human-centered design to
 
 ## 📊 GitHub Statistics
 
-![Raza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RazaJavaid2004&show_icons=true&theme=radical)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=RazaJavaid2004&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RazaJavaid2004&show_icons=true&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RazaJavaid2004&theme=radical" />
+</div>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Scratch](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white)
-
-- Programming: C, C++, Python, HTML, CSS, JavaScript  
-- Cybersecurity: Ethical Hacking (Beginner), Cryptography (RSA, AES, DES)  
-- AI: Prompt Engineering, AI Workflow Design, Data Visualization  
-- Platforms: Git, GitHub, Scratch, Linux
+| Domain | Tools |
+|--------|-------|
+| **Programming** | C, C++, Python, Assembly |
+| **Cybersecurity** | Ethical Hacking, Cryptography (RSA, AES, DES), Wireshark, Scapy |
+| **Cloud & DevOps** | Terraform, GitHub Actions, Azure |
+| **Compliance** | NIST, PCI DSS, SOC 2, HIPAA |
+| **Developer Tools** | VS Code, Git, GitHub, Linux |
 
 ---
 
 ## 🚀 Featured Projects
 
-### RSA, AES & DES Encryption-Decryption Suite
+### 🛡️ ASM Credential Validator
+Low‑level authentication workflow built in Assembly using DOS interrupts and register‑level string validation.  
+**Impact:** Demonstrates secure credential handling at the system level.  
+**Tech Stack:** Assembly | DOS Interrupts  
+🔗 [View Repository](https://github.com/RazaJavaid2004/ASM-Credential-Validator)
 
-A comprehensive cryptography toolkit implementing three major encryption standards — RSA (asymmetric), AES (symmetric), and DES (symmetric) — designed for secure data handling and modular algorithm comparison.
+---
 
-**Key Features:**
-- RSA key generation and public/private encryption  
-- AES encryption with selectable key sizes (128/192/256-bit)  
-- DES encryption/decryption with fixed 56-bit key  
-- Modular class-based architecture for each algorithm  
-- CLI interface for testing and comparing encryption workflows  
-- Sample input/output files for real-world simulation
+### 🌐 Basic Network Sniffer
+Packet sniffer built with Python and Scapy. Captures live traffic, logs summaries with timestamps, and mimics SOC‑style monitoring.  
+**Impact:** Practical tool for traffic analysis and SOC training.  
+**Tech Stack:** Python | Scapy  
+🔗 [View Repository](https://github.com/RazaJavaid2004/CodeAlpha_Basic-Network-Sniffer)
 
+---
+
+### 🔒 RSA, AES & DES Encryption Suite
+Cryptography toolkit implementing RSA, AES, and DES for secure data handling and algorithm comparison.  
+**Impact:** Educational resource for comparing symmetric vs. asymmetric encryption.  
 **Tech Stack:** C++ | Modular Class Design  
-**Use Case:** Ideal for demonstrating foundational cryptography concepts in cybersecurity education, ethical hacking labs, and secure messaging systems.
-
 🔗 [View Repository](https://github.com/RazaJavaid2004/CXX-Language-Course/tree/main/Projects/OOP%20Project)
+
+---
+
+### 📂 PITP Cybersecurity & Ethical Hacking
+Hands‑on exercises and labs focused on penetration testing, ethical hacking, and secure protocol design.  
+**Impact:** Reinforces practical cybersecurity skills through structured labs.  
+🔗 [View Repository](https://github.com/RazaJavaid2004/PITP-Cybersecurity-and-Ethical-Hacking)
+
+---
+
+### 📜 Google Cybersecurity Professional
+Repository documenting coursework and applied exercises from the Google Cybersecurity Certificate.  
+**Impact:** Showcases structured learning and applied security practices.  
+🔗 [View Repository](https://github.com/RazaJavaid2004/Google-Cybersecurity-Professional)
+
+---
+
+### 📅 Daily Task Notifier
+Desktop app that displays daily routine tasks at startup with recurrence logic and priority sorting.  
+**Impact:** Demonstrates ability to design cross‑platform utilities with scheduling features.  
+**Tech Stack:** C++, Qt Creator 
+🔗 [View Repository](https://github.com/RazaJavaid2004/Daily-Task-Notifier)
+
+---
+
+### 📝 Labs to PDF
+Automation tool that compiles lab programs, executes them, and generates formatted PDF reports.  
+**Impact:** Streamlines documentation and workflow efficiency.  
+**Tech Stack:** Python | PDF Automation  
+🔗 [View Repository](https://github.com/RazaJavaid2004/labs-to-pdf)
+
+---
+
+## 📜 Compliance Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NIST-Framework-blue?style=for-the-badge&logo=security&logoColor=white" alt="NIST Badge"/>
+  <img src="https://img.shields.io/badge/PCI%20DSS-Compliance-orange?style=for-the-badge&logo=credit-card&logoColor=white" alt="PCI DSS Badge"/>
+  <img src="https://img.shields.io/badge/SOC%202-Audit-green?style=for-the-badge&logo=trustpilot&logoColor=white" alt="SOC 2 Badge"/>
+  <img src="https://img.shields.io/badge/HIPAA-Security-purple?style=for-the-badge&logo=health&logoColor=white" alt="HIPAA Badge"/>
+  <img src="https://img.shields.io/badge/FedRAMP-Cloud%20Security-lightblue?style=for-the-badge&logo=cloud&logoColor=white" alt="FedRAMP Badge"/>
+</p>
 
 ---
 
 ## 📜 Certifications
 
-- Prompt Hackers Masterclass by Datacrumbs  
-- Microsoft Learn: Describe Cloud Computing  
-- Microsoft Learn: Describe the Benefits of Using Cloud Services  
+- Google Cybersecurity Certificate  
+- Cyber Security and Ethical Hacking (NED Academy & SITD Government of Sindh)  
+- SOC Analyst Essentials (Cyber Academy)  
+- CCSC (Hack and Fix)  
+- Microsoft Learn: Cloud Computing & Cloud Benefits  
+- Prompt Hackers Masterclass (Datacrumbs)  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Learn-Cloud%20Computing-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Cloud Computing Badge"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Learn-Cloud%20Benefits-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Cloud Benefits Badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Hackers-Datacrumbs%20Certified-purple?style=for-the-badge&logo=databricks&logoColor=white" alt="Datacrumbs Badge"/>
+  <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-Ethical%20Hacking-red?style=for-the-badge&logo=hackaday" />
+  <img src="https://img.shields.io/badge/SOC%20Analyst-Cyber%20Academy-green?style=for-the-badge&logo=security" />
+  <img src="https://img.shields.io/badge/CCSC-Hack%20and%20Fix-orange?style=for-the-badge&logo=security" />
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-Cloud%20Computing-blue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Microsoft%20Learn-Cloud%20Benefits-lightblue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Prompt%20Hackers-Datacrumbs%20Certified-purple?style=for-the-badge&logo=databricks" />
 </p>
 
 ---
 
-## 📄 License
-
-This repository’s code is licensed under the [MIT License](LICENSE).
-
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-
-Creative assets (e.g., banner image) are licensed under:
-
-[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)  
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Raza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammadraza2006/)  
+[![Email](https://img.shields.io/badge/Gmail-muhammadrazadev2006@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazadev2006@gmail.com)
 
 ---
 
-## 🤝 Connect with Me
+![Profile views](https://komarev.com/ghpvc/?username=RazaJavaid2004&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadraza2006/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Raza-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:muhammadrazadev2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-muhammadrazadev2006@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</p>
-
----
-
-📬 This portfolio is actively maintained.  
-💡 For collaborations, feedback, or mentorship, feel free to reach out!
+_Thanks for visiting my profile! Let’s secure the future together._
