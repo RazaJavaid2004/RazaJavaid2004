@@ -64,9 +64,6 @@ I design and document **modular security toolkits**, build cryptographic suites,
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazaJavaid2004&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
-  <!-- Contribution Snake Animation -->
-  ![Snake animation](https://github.com/RazaJavaid2004/RazaJavaid2004/blob/output/github-contribution-grid-snake.svg)
-
   <!-- Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=RazaJavaid2004&style=for-the-badge&color=blue" alt="Profile Views" />
 
