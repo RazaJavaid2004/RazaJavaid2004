@@ -57,8 +57,25 @@ I design and document **modular security toolkits**, build cryptographic suites,
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RazaJavaid2004&show_icons=true&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=RazaJavaid2004&theme=radical" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazaJavaid2004&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RazaJavaid2004&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+
+  <!-- Contribution Snake Animation -->
+  ![Snake animation](https://github.com/RazaJavaid2004/RazaJavaid2004/blob/output/github-contribution-grid-snake.svg)
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=RazaJavaid2004&style=for-the-badge&color=blue" alt="Profile Views" />
+
+  <!-- Badges Summary -->
+  <img src="https://img.shields.io/badge/Commits-Active-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PRs-Contributed-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Issues-Resolved-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-⭐-yellow?style=for-the-badge&logo=github" />
+
 </div>
 
 ---
@@ -169,7 +186,5 @@ Automation tool that compiles lab programs, executes them, and generates formatt
 [![Email](https://img.shields.io/badge/Gmail-muhammadrazadev2006@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrazadev2006@gmail.com)
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=RazaJavaid2004&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 _Thanks for visiting my profile! Let’s secure the future together._
