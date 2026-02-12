@@ -181,7 +181,7 @@ Automation tool that compiles lab programs, executes them, and generates formatt
 ## 🎖️ Credly Badges
 
 <p align="center">
-  <img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="120" alt="Badge 1" />
+  <img src="[https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png](https://www.credly.com/badges/e739f860-6689-4341-a5c2-cfd9a5bf11c2)" width="120" alt="Badge 1" />
   <img src="https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" width="120" alt="Badge 2" />
   <img src="https://images.credly.com/images/4ccd9157-c68a-4797-b23c-506601198991/blob" width="120" alt="Badge 3" />
   <img src="https://images.credly.com/size/200x200/images/f821064c-8e80-4900-bec2-a799a62157e5/Coursera_20Operating_20Systems_20Overview_20Administration_20and_20Security.png" width="120" alt="Operating Systems Security" />
