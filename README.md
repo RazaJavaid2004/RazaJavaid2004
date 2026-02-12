@@ -180,32 +180,8 @@ Automation tool that compiles lab programs, executes them, and generates formatt
 
 ## 🎖️ Credly Badges
 
-<p align="center">
-  <a href="https://www.credly.com/badges/e739f860-6689-4341-a5c2-cfd9a5bf11c2">
-    <img src="https://images.credly.com/size/200x200/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="120" alt="Badge 1" />
-  </a>
-  <a href="https://www.credly.com/badges/c3de3c0b-01e7-4088-ba76-4e26808ea803">
-    <img src="https://images.credly.com/size/200x200/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/image.png" width="120" alt="Badge 2" />
-  </a>
-  <a href="https://www.credly.com/badges/15a95bf2-04c3-4a80-807b-434c8e256cac">
-    <img src="https://images.credly.com/size/200x200/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" width="120" alt="Badge 3" />
-  </a>
-  <a href="https://www.credly.com/badges/3e65e086-7886-4662-9bda-ab7fa51fe1d7">
-    <img src="https://images.credly.com/size/200x200/images/f821064c-8e80-4900-bec2-a799a62157e5/Coursera_20Operating_20Systems_20Overview_20Administration_20and_20Security.png" width="120" alt="Badge 4" />
-  </a>
-  <a href="https://www.credly.com/badges/8e07df20-da61-4ade-b5f6-9378dc6e78f9">
-    <img src="https://images.credly.com/size/200x200/images/ac3c7b20-510a-479f-b51f-b9e3972d25db/image.png" width="120" alt="Badge 5" />
-  </a>
-  <a href="https://www.credly.com/badges/3a735d72-be12-4c4f-a6af-acf702dc9a41">
-    <img src="https://images.credly.com/size/200x200/images/f821064c-8e80-4900-bec2-a799a62157e5/Coursera_20Operating_20Systems_20Overview_20Administration_20and_20Security.png" width="120" alt="Badge 6" />
-  </a>
-  <a href="https://www.credly.com/badges/242c2ec2-49a3-4ec6-be47-1a0037681893">
-    <img src="https://images.credly.com/size/200x200/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/image.png" width="120" alt="Badge 7" />
-  </a>
-  <a href="https://www.credly.com/badges/61e7a6ab-4bba-41a1-9a32-cac75567e56c">
-    <img src="https://images.credly.com/size/200x200/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="120" alt="Badge 8" />
-  </a>
-</p>
+<!-- START_CREDLY_BADGES -->
+<!-- END_CREDLY_BADGES -->
 
 ---
 
