@@ -178,7 +178,7 @@ Automation tool that compiles lab programs, executes them, and generates formatt
 
 ---
 
-## 🎖️## 🎖️ Credly Badges
+## 🎖️ Credly Badges
 
 <p align="center">
   <a href="https://www.credly.com/badges/e739f860-6689-4341-a5c2-cfd9a5bf11c2">
