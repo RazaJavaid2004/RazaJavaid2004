@@ -132,7 +132,7 @@ Repository documenting coursework and applied exercises from the Google Cybersec
 ### 📅 Daily Task Notifier
 Desktop app that displays daily routine tasks at startup with recurrence logic and priority sorting.  
 **Impact:** Demonstrates ability to design cross‑platform utilities with scheduling features.  
-**Tech Stack:** C++, Qt Creator 
+**Tech Stack:** C++ | Qt Creator  
 🔗 [View Repository](https://github.com/RazaJavaid2004/Daily-Task-Notifier)
 
 ---
@@ -181,14 +181,7 @@ Automation tool that compiles lab programs, executes them, and generates formatt
 ## 🎖️ Credly Badges
 
 <!-- START_CREDLY_BADGES -->
-<a href="https://www.credly.com/badges/3e65e086-7886-4662-9bda-ab7fa51fe1d7"><img src="https://wsrv.nl/?url=https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob" alt="Credly Badge" width="100"/></a>
-<a href="https://www.credly.com/badges/15a95bf2-04c3-4a80-807b-434c8e256cac"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Credly Badge" width="100"/></a>
-<a href="https://www.credly.com/badges/61e7a6ab-4bba-41a1-9a32-cac75567e56c"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ef9d282a-8f31-4b0f-9bbb-640a68ea4b7f/Coursera_20Database_20Essentials_20and_20Vulnerabilities.png" alt="Credly Badge" width="100"/></a>
-<a href="https://www.credly.com/badges/242c2ec2-49a3-4ec6-be47-1a0037681893"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ac3c7b20-510a-479f-b51f-b9e3972d25db/blob" alt="Credly Badge" width="100"/></a>
-<a href="https://www.credly.com/badges/3a735d72-be12-4c4f-a6af-acf702dc9a41"><img src="https://wsrv.nl/?url=https://images.credly.com/images/f821064c-8e80-4900-bec2-a799a62157e5/Coursera_20Operating_20Systems_20Overview_20Administration_20and_20Security.png" alt="Credly Badge" width="100"/></a>
-<a href="https://www.credly.com/badges/8e07df20-da61-4ade-b5f6-9378dc6e78f9"><img src="https://wsrv.nl/?url=https://images.credly.com/images/4ccd9157-c68a-4797-b23c-506601198991/blob" alt="Credly Badge" width="100"/></a>
-<a href="https://www.credly.com/badges/c3de3c0b-01e7-4088-ba76-4e26808ea803"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" alt="Credly Badge" width="100"/></a>
-<a href="https://www.credly.com/badges/e739f860-6689-4341-a5c2-cfd9a5bf11c2"><img src="https://wsrv.nl/?url=https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="Credly Badge" width="100"/></a>
+
 <!-- END_CREDLY_BADGES -->
 
 ---
