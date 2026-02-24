@@ -1,6 +1,6 @@
 <!-- 🔗 This README appears on my GitHub profile! -->
 
-![Banner](assets/banner.png)
+![Banner](assets/banner.jpg)
 
 # Muhammad Raza  
 **Cybersecurity & Cloud Security Professional | SOC Analyst Experience | GitHub: RazaJavaid2004 | LinkedIn: Muhammad Raza**
