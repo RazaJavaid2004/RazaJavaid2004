@@ -181,7 +181,17 @@ Automation tool that compiles lab programs, executes them, and generates formatt
 ## 🎖️ Credly Badges
 
 <!-- START_CREDLY_BADGES -->
-
+<a href="https://www.credly.com/badges/26f9b3e4-3cd2-444a-90c1-3c1788278f86"><img src="https://wsrv.nl/?url=https://images.credly.com/images/84ce958a-30a6-4036-9944-005c0fce9f81/Cybersecurity_Arch_V2.png" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/07d4eaad-edc5-41b7-94c9-fb06b8adea21"><img src="https://wsrv.nl/?url=https://images.credly.com/images/a6525eb2-4761-4bdf-b9a0-d28219d5a8ae/image.png" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/7e11ca43-4b94-4802-b587-6e098470355e"><img src="https://wsrv.nl/?url=https://images.credly.com/images/69c4c53b-5f46-4709-b631-b5a8d179718c/image.png" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/6932ff27-1689-43ee-8f9e-8a75997af298"><img src="https://wsrv.nl/?url=https://images.credly.com/images/7e854d65-d59d-45ad-9d4d-89d627087c08/blob" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/074b153b-85a2-4309-856b-92acecec2de7"><img src="https://wsrv.nl/?url=https://images.credly.com/images/0b476bd4-bb81-4eaf-9464-8c54451fa7ee/blob" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/6599fc58-85ed-4baf-9363-8b8f4d64284a"><img src="https://wsrv.nl/?url=https://images.credly.com/images/6ffa4f1e-cf24-4d4b-af84-86105720f6fe/blob" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/03af0655-bb7c-4d60-b024-b4225f450cfd"><img src="https://wsrv.nl/?url=https://images.credly.com/images/34ac978e-748e-4e7e-9227-34e0746716c8/blob" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/82f26756-7c99-4a78-b633-0a60a644e772"><img src="https://wsrv.nl/?url=https://images.credly.com/images/3460226a-69cf-47d2-91cf-7ce24fe0da59/blob" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/06c003fe-6e88-4dd1-a421-5a97fbc71ec5"><img src="https://wsrv.nl/?url=https://images.credly.com/images/3d5a1839-d1dc-4821-b58e-3a274b610f37/blob" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/80cd1205-fb55-4873-bf49-c107b834727f"><img src="https://wsrv.nl/?url=https://images.credly.com/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob" alt="Credly Badge" width="100"/></a>
+<a href="https://www.credly.com/badges/f42ecd19-16a8-40f7-9a67-adc4c419d867"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ee3ee65e-f3a4-4dcf-8cf4-e5a19ba89fe5/blob" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/3e65e086-7886-4662-9bda-ab7fa51fe1d7"><img src="https://wsrv.nl/?url=https://images.credly.com/images/e5d0c55b-6904-4764-973a-25bd210ccd1a/blob" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/15a95bf2-04c3-4a80-807b-434c8e256cac"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/61e7a6ab-4bba-41a1-9a32-cac75567e56c"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ef9d282a-8f31-4b0f-9bbb-640a68ea4b7f/Coursera_20Database_20Essentials_20and_20Vulnerabilities.png" alt="Credly Badge" width="100"/></a>
@@ -190,7 +200,6 @@ Automation tool that compiles lab programs, executes them, and generates formatt
 <a href="https://www.credly.com/badges/8e07df20-da61-4ade-b5f6-9378dc6e78f9"><img src="https://wsrv.nl/?url=https://images.credly.com/images/4ccd9157-c68a-4797-b23c-506601198991/blob" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/c3de3c0b-01e7-4088-ba76-4e26808ea803"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ef9f86ad-4e53-4dbc-8951-e4cab81ff09e/blob" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/e739f860-6689-4341-a5c2-cfd9a5bf11c2"><img src="https://wsrv.nl/?url=https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="Credly Badge" width="100"/></a>
-
 <!-- END_CREDLY_BADGES -->
 
 ---
