@@ -1,5 +1,3 @@
-<!-- 🔗 This README appears on my GitHub profile! -->
-
 ![Banner](assets/banner.jpg)
 
 # Muhammad Raza  
@@ -26,6 +24,20 @@ I design and document **modular security toolkits**, build cryptographic suites,
 
 ---
 
+## 🛡️ Cyberster Blue Team Internship
+
+🎓 **Role**: Blue Team Intern  
+🏢 **Organization**: Cyberster  
+📅 **Duration**: Feb 2026 – May 2026  
+🌐 **Location**: Remote  
+🔍 **Focus Areas**: Threat detection, SIEM tuning, incident response, insider threat simulation, digital forensics, firewall configuration  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Internship-Cyberster%20Blue%20Team-darkblue?style=for-the-badge&logo=security" alt="Cyberster Badge"/>
+</p>
+
+---
+
 ## 🛡️ Cyber Academy SOC Analyst Internship
 
 🎓 **Role**: SOC Analyst Intern (Level 1)  
@@ -36,20 +48,6 @@ I design and document **modular security toolkits**, build cryptographic suites,
 
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-Cyber%20Academy%20SOC%20Analyst-green?style=for-the-badge&logo=security" alt="Cyber Academy Badge"/>
-</p>
-
----
-
-## 🛡️ CodeAlpha Cybersecurity Internship
-
-🎓 **Role**: Cybersecurity Intern  
-🏢 **Organization**: CodeAlpha  
-📅 **Duration**: Oct 2025 – Jan 2026  
-🌐 **Location**: Remote  
-🔍 **Focus Areas**: Ethical Hacking, Secure Protocols, Python, C++, GitHub Documentation  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Internship-CodeAlphaCybersecurity-blue?style=for-the-badge&logo=github" alt="CodeAlpha Badge"/>
 </p>
 
 ---
@@ -91,27 +89,11 @@ I design and document **modular security toolkits**, build cryptographic suites,
 
 ## 🚀 Featured Projects
 
-### 🛡️ ASM Credential Validator
-Low‑level authentication workflow built in Assembly using DOS interrupts and register‑level string validation.  
-**Impact:** Demonstrates secure credential handling at the system level.  
-**Tech Stack:** Assembly | DOS Interrupts  
-🔗 [View Repository](https://github.com/RazaJavaid2004/ASM-Credential-Validator)
-
----
-
-### 🌐 Basic Network Sniffer
-Packet sniffer built with Python and Scapy. Captures live traffic, logs summaries with timestamps, and mimics SOC‑style monitoring.  
-**Impact:** Practical tool for traffic analysis and SOC training.  
-**Tech Stack:** Python | Scapy  
-🔗 [View Repository](https://github.com/RazaJavaid2004/CodeAlpha_Basic-Network-Sniffer)
-
----
-
-### 🔒 RSA, AES & DES Encryption Suite
-Cryptography toolkit implementing RSA, AES, and DES for secure data handling and algorithm comparison.  
-**Impact:** Educational resource for comparing symmetric vs. asymmetric encryption.  
-**Tech Stack:** C++ | Modular Class Design  
-🔗 [View Repository](https://github.com/RazaJavaid2004/CXX-Language-Course/tree/main/Projects/OOP%20Project)
+### 🛡️ Cyberster Blue Team Internship
+Repository documenting my internship work at **Cyberster**, focusing on Blue Team operations.  
+**Impact:** Showcases applied skills in threat detection, SIEM tuning, incident response, insider threat simulation, and digital forensics.  
+**Tech Stack:** SIEM Tools | pfSense | Log Analysis | Forensics Tools  
+🔗 [View Repository](https://github.com/RazaJavaid2004/Cyberster-Blue-Team-Internship)
 
 ---
 
@@ -137,11 +119,27 @@ Desktop app that displays daily routine tasks at startup with recurrence logic a
 
 ---
 
-### 📝 Labs to PDF
-Automation tool that compiles lab programs, executes them, and generates formatted PDF reports.  
-**Impact:** Streamlines documentation and workflow efficiency.  
-**Tech Stack:** Python | PDF Automation  
-🔗 [View Repository](https://github.com/RazaJavaid2004/labs-to-pdf)
+### 🛡️ ASM Credential Validator
+Low‑level authentication workflow built in Assembly using DOS interrupts and register‑level string validation.  
+**Impact:** Demonstrates secure credential handling at the system level.  
+**Tech Stack:** Assembly | DOS Interrupts  
+🔗 [View Repository](https://github.com/RazaJavaid2004/ASM-Credential-Validator)
+
+---
+
+### 🌐 Basic Network Sniffer
+Packet sniffer built with Python and Scapy. Captures live traffic, logs summaries with timestamps, and mimics SOC‑style monitoring.  
+**Impact:** Practical tool for traffic analysis and SOC training.  
+**Tech Stack:** Python | Scapy  
+🔗 [View Repository](https://github.com/RazaJavaid2004/CodeAlpha_Basic-Network-Sniffer)
+
+---
+
+### 🔒 RSA, AES & DES Encryption Suite
+Cryptography toolkit implementing RSA, AES, and DES for secure data handling and algorithm comparison.  
+**Impact:** Educational resource for comparing symmetric vs. asymmetric encryption.  
+**Tech Stack:** C++ | Modular Class Design  
+🔗 [View Repository](https://github.com/RazaJavaid2004/CXX-Language-Course/tree/main/Projects/OOP%20Project)
 
 ---
 
