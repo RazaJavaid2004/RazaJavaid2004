@@ -28,7 +28,7 @@ I design and document **modular security toolkits**, build cryptographic suites,
 
 🎓 **Role**: Blue Team Intern  
 🏢 **Organization**: Cyberster  
-📅 **Duration**: Feb 2026 – May 2026  
+📅 **Duration**: March 2026 – May 2026  
 🌐 **Location**: Remote  
 🔍 **Focus Areas**: Threat detection, SIEM tuning, incident response, insider threat simulation, digital forensics, firewall configuration  
 
