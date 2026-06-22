@@ -123,6 +123,7 @@ I design and document **modular security toolkits**, build cryptographic suites,
 ## 🎖️ Credly Badges
 
 <!-- START_CREDLY_BADGES -->
+<a href="https://www.credly.com/badges/1ce1cc19-fe79-4afa-ace4-949036200e7d"><img src="https://wsrv.nl/?url=https://images.credly.com/images/ccfd87c6-edad-4138-80cb-d49d1453d6e5/blob" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/26f9b3e4-3cd2-444a-90c1-3c1788278f86"><img src="https://wsrv.nl/?url=https://images.credly.com/images/84ce958a-30a6-4036-9944-005c0fce9f81/Cybersecurity_Arch_V2.png" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/07d4eaad-edc5-41b7-94c9-fb06b8adea21"><img src="https://wsrv.nl/?url=https://images.credly.com/images/a6525eb2-4761-4bdf-b9a0-d28219d5a8ae/image.png" alt="Credly Badge" width="100"/></a>
 <a href="https://www.credly.com/badges/7e11ca43-4b94-4802-b587-6e098470355e"><img src="https://wsrv.nl/?url=https://images.credly.com/images/69c4c53b-5f46-4709-b631-b5a8d179718c/image.png" alt="Credly Badge" width="100"/></a>
