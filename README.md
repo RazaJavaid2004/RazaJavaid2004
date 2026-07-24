@@ -1,7 +1,7 @@
 ![Banner](assets/banner.jpg)
 
 # Muhammad Raza  
-**Cybersecurity & Cloud Security Professional | SOC Analyst Experience | GitHub: RazaJavaid2004 | LinkedIn: Muhammad Raza**
+**Google Cybersecurity | SOC Analyst Experience | GitHub: RazaJavaid2004 | LinkedIn: Muhammad Raza**
 
 ## 🧠 About Me  
 
@@ -12,15 +12,7 @@ I'm a Computer Science undergraduate at NED University, driven by a mission to s
 I design and document **modular security toolkits**, build cryptographic suites, and explore **DevSecOps pipelines** that integrate security into every stage of development. With hands‑on SOC Analyst internships and certifications in cybersecurity, I bring both technical depth and regulatory awareness to my work.  
 
 - 🎓 CS Student @ NEDUET  
-- 🔐 SOC Analyst & Cybersecurity Internships  
-- 🌐 Exploring Cloud Security, Infrastructure as Code, and Policy as Code  
-- 📜 Skilled in compliance frameworks: NIST, PCI DSS, SOC 2, HIPAA, FedRAMP  
- 
-- 🌱 Currently learning:
-
-  ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![DevSecOps](https://img.shields.io/badge/DevSecOps-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
+- 🌐 Exploring SOC and Cloud Security
 
 ---
 
@@ -81,8 +73,6 @@ I design and document **modular security toolkits**, build cryptographic suites,
 |--------|-------|
 | **Programming** | C, C++, Python, Assembly |
 | **Cybersecurity** | Ethical Hacking, Cryptography (RSA, AES, DES), Wireshark, Scapy |
-| **Cloud & DevOps** | Terraform, GitHub Actions, Azure |
-| **Compliance** | NIST, PCI DSS, SOC 2, HIPAA |
 | **Developer Tools** | VS Code, Git, GitHub, Linux |
 
 ---
@@ -106,7 +96,6 @@ I design and document **modular security toolkits**, build cryptographic suites,
 - SOC Analyst Essentials (Cyber Academy)  
 - CCSC (Hack and Fix)  
 - Microsoft Learn: Cloud Computing & Cloud Benefits  
-- Prompt Hackers Masterclass (Datacrumbs)  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge&logo=google" />
