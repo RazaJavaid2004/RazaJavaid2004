@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadraza2006/"><img src="./assets/linkedin.svg" width="31.5%" alt="LinkedIn — Muhammad Raza" /></a>&nbsp;
+  <a href="https://medium.com/@RazaJavaid2004"><img src="./assets/medium.svg" width="31.5%" alt="Medium — @RazaJavaid2004" /></a>&nbsp;
   <a href="mailto:muhammadrazadev2006@gmail.com"><img src="./assets/gmail.svg" width="31.5%" alt="Gmail — muhammadrazadev2006@gmail.com" /></a>&nbsp;
   <a href="https://www.credly.com/users/muhammadraza2006"><img src="./assets/credly.svg" width="31.5%" alt="Credly — muhammadraza2006" /></a>&nbsp;
-  <a href="https://medium.com/@RazaJavaid2004"><img src="./assets/medium.svg" width="31.5%" alt="Medium — @RazaJavaid2004" /></a>&nbsp;
   <a href="https://learn.microsoft.com/en-us/users/muhammadraza-7403/"><img src="./assets/mslearn.svg" width="31.5%" alt="Microsoft Learn — MuhammadRaza-7403" /></a>&nbsp;
 </p>
 
