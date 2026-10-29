@@ -1,0 +1,21 @@
+<svg width="880" height="210" viewBox="0 0 880 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Raza, Cybersecurity Student</title>
+  <style>
+    .label { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 2.4px; fill: #57606a; }
+    .headline { font: italic 600 48px Georgia, 'Times New Roman', serif; fill: #0c67f0; }
+    .copy { font: 400 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #0b1fd2; }
+    .rule { stroke: #1bb4f0; }
+    .cursor { animation: blink 1s step-end infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-color-scheme: dark) {
+      .label, .copy { fill: #3a77a9; }
+      .headline { fill: #25b0cf; }
+      .rule { stroke: #067cdd; }
+    }
+  </style>
+  <text x="2" y="26" class="label">MUHAMMAD RAZA / CYBERSECURITY STUDENT</text>
+  <line x1="2" y1="45" x2="878" y2="45" class="rule" />
+  <text x="2" y="113" class="headline">securing the digital world <tspan class="cursor">|</tspan></text>
+  <text x="4" y="158" class="copy">NEDUET CSIT'28 | JUNIOR | xIntern @ Cyberster</text>
+  <line x1="2" y1="192" x2="878" y2="192" class="rule" />
+</svg>
